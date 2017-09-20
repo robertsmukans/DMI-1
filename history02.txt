@@ -1,0 +1,104 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  mozilla&
+    4  mozzila&
+    5  mozilla&
+    6  mozzilla&
+    7  pwd
+    8  ls -l
+    9  https://github.com/intsdronka/DMI/blob/master/history.txt
+   10  git clone https://github.com/intsdronka/DMI/blob/master/history.txt
+   11  nano\
+   12  nano
+   13  cat git-download.sh
+   14  ls
+   15  wheteis ls
+   16  whereis ls
+   17  cat /bin/ls
+   18  q
+   19  ls
+   20  ls -l
+   21  ls -l /bin/ls
+   22  cd es
+   23  cd -es
+   24  cd documents
+   25  cd -documents
+   26  cd-documents
+   27  pwd
+   28  ls -l
+   29  cd Documents
+   30  cd ..
+   31  cd git-dowload
+   32  home/user/git-downoad.sh
+   33  /home/user/git-dowload.sh
+   34  nano
+   35  cat git-download
+   36  cat git-download.sh
+   37  ls
+   38  /home/user/git-dowload.sh
+   39  /home/user/git-download.sh
+   40  chmod 744 git-download.sh
+   41  ls -l
+   42  ./git-dowload.sh
+   43  ./git-download.sh
+   44  cat git-download.sh
+   45  ./git-download.sh
+   46  nano git-download.sh
+   47  ./git-download.sh
+   48  ls -l
+   49  nano git-download.sh
+   50  ./git-download.sh
+   51  ls -l
+   52  ./git-download.sh
+   53  cd DMI
+   54  ls
+   55  ls -ls
+   56  cd..
+   57  cd ..
+   58  echo $PATH
+   59  PATH=/home/user:$PATH
+   60  echo $PATH
+   61  cd DMI\
+   62  ls
+   63  cd history.txt
+   64  cat history.txt
+   65  cd ...
+   66  cd ..
+   67  ls -la
+   68  mv git-download.sh git-download
+   69  ls -l
+   70  rmdir es
+   71  mkdir darbi
+   72  cd darbi
+   73  cd ..
+   74  rm es
+   75  ls -l
+   76  cd darbi
+   77  git-download
+   78  ls
+   79  cd DMI
+   80  ls -l
+   81  cd teksts
+   82  cat teksts
+   83  cat history.txt
+   84  cd ..
+   85  cd darbi
+   86  cd DMI
+   87  ls -la
+   88  ls -l
+   89  cp ls -tilde
+   90  ls ~/
+   91  cp ~/git-download ./
+   92  ls -l
+   93  nano git-upload
+   94  ls -l
+   95  chmod 744 git-upload
+   96  ls -l
+   97  ls -la
+   98  git-upload
+   99  pwd
+  100  PATH=$PATH:home/user/darbi/DMI
+  101  git-upload
+  102  PATH=$PATH:/home/user/darbi/DMI
+  103  git-upload
+  104  history > history02.txt
