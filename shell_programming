@@ -1,12 +1,17 @@
 #!/bin/bash
 NAME="vaards uzvaards"
+
+echo "Tiek pildits skripts: $0"
+echo "Skriptam nodoto argumentu skaits: $#"
+echo $n
+echo "skriptam nodoti argumenti (attelosana/grupesana 1):" $*
+echo "skriptam nodoti argumenti (attelosana/grupesana 2):" $@
+#echo " "$?
+echo "Skriptam pieskirtais procesa nummurs:" $$
+echo $!
+
 #readonly NAME
 #echo $NAME
-
 #NAME="uzvaards"
 #echo $NAME
-
-echo $NAme
-unset NAME
-echo $NAME
 

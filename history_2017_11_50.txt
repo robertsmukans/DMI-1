@@ -1,0 +1,148 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/intsdronka/DMI
+    3  ls 
+    4  cd dmi
+    5  cd DMI
+    6  ls
+    7  cat history02.txt
+    8  ls
+    9  cd git-download
+   10  cat git-download
+   11  PATH
+   12  a=100
+   13  $a
+   14  echo $100
+   15  echo a$
+   16  echo a
+   17  $a
+   18  a$
+   19  echo $a
+   20  VAR1="zars"
+   21  echo $VAR1
+   22  var2=zars
+   23  echo var2
+   24  echo $var2
+   25  man bash
+   26  nano
+   27  echo $name
+   28  nano
+   29  nano aaa
+   30  ls
+   31  cat aaa
+   32  cd aaa
+   33  /bin/sh: name
+   34  $name
+   35  echo $name
+   36  name="soup"
+   37  echo $name
+   38  nano aaa
+   39  name="soup"
+   40  echo $name
+   41  nano aaa
+   42  echo $name
+   43  rmdir aaa
+   44  nano
+   45  nano shell_programming
+   46  nano shell_programming.sh
+   47  ls
+   48  /bin/bash chmod 744 shell_programming.ch
+   49  ls
+   50  ls -l
+   51  chmod 744 shell_programming.ch
+   52  ls
+   53  chmod shell_programming.sh
+   54  chmod 744 shell_programming.sh
+   55  ls
+   56  ./shell_programming
+   57  ./shell_programming.sh
+   58  nano shell_programming.sh
+   59  ls
+   60  chmod 744 shell_programming
+   61  ls
+   62  chmod 744 aaa
+   63  ls
+   64  rmdir aaa
+   65  rm aaa
+   66  ls
+   67  rm shell_programming.sh
+   68* 
+   69  nano shell_programming
+   70  echo $NAME
+   71  nano shell_programming
+   72  ./shell_programming.sh
+   73  ./shell_programming
+   74  shell_programming
+   75  nano shell_programming
+   76  ./shell_programming
+   77  pwd
+   78  ls -la
+   79  nano git-upload
+   80  history >history_2017_09_50.txt
+   81  nano git-upload
+   82  PATH=$PATH:home/user/DMI
+   83  echo $PATH
+   84  git-upload
+   85  pwd
+   86  PATH=$PATH:/home/user/DMI
+   87  git-upload
+   88  ls
+   89  git-upload
+   90  https://github.com/intsdronka/DMIhttps://github.com/intsdronka/DMIhttps://github.com/intsdronka/DMI
+   91  git-upload
+   92  pwd
+   93  PATH=$PATH:/home/user/DMI
+   94  echo $PATH
+   95  git-upload
+   96  chmod 744 git-upload
+   97  ls
+   98  PATH=$PATH:/home/user/DMI
+   99  git-upload
+  100  \
+  101  nano git-upload
+  102  PATH=$PATH:/home/user/DMI
+  103  git-upload
+  104  $echo $$
+  105  nano shell_programming
+  106  ./shell_programming
+  107  nano shell_programming
+  108  ./shell_programming
+  109  nano shell_programming
+  110  ./shell_programming
+  111  ifconfig
+  112  PATH=$PATH:~/DMI
+  113  ifconfig
+  114  ls
+  115  nano shell_programming
+  116  echo $0
+  117  echo $$
+  118  echo n$
+  119  echo $n
+  120  echo $#
+  121  echo $*
+  122  echo $!
+  123  echo $@
+  124  nano shell_programming 
+  125  ssh user@
+  126  10.152.17.117
+  127* 
+  128  whoami
+  129  who
+  130  nano shell_programming 
+  131  ./shell_programming
+  132  ./shell_programming argl
+  133  PATH=$PATH:.
+  134  shell_programming 
+  135  shell_programming arg1 arg2
+  136  nano shell_programming
+  137  shell_programming 
+  138  nano shell_programming
+  139  shell_programming 
+  140  nano shell_programming
+  141  shell_programming 
+  142  shell_programming arg1
+  143  nano shell_programming
+  144  shell_programming arg1
+  145  nano shell_programming
+  146  shell_programming arg1
+  147  nano git-upload
+  148  history > history_2017_11_50.txt 
