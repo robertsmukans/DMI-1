@@ -1,0 +1,12 @@
+#!/bin/bash
+NAME="vaards uzvaards"
+#readonly NAME
+#echo $NAME
+
+#NAME="uzvaards"
+#echo $NAME
+
+echo $NAme
+unset NAME
+echo $NAME
+

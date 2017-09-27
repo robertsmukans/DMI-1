@@ -1,0 +1,80 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/intsdronka/DMI
+    3  ls 
+    4  cd dmi
+    5  cd DMI
+    6  ls
+    7  cat history02.txt
+    8  ls
+    9  cd git-download
+   10  cat git-download
+   11  PATH
+   12  a=100
+   13  $a
+   14  echo $100
+   15  echo a$
+   16  echo a
+   17  $a
+   18  a$
+   19  echo $a
+   20  VAR1="zars"
+   21  echo $VAR1
+   22  var2=zars
+   23  echo var2
+   24  echo $var2
+   25  man bash
+   26  nano
+   27  echo $name
+   28  nano
+   29  nano aaa
+   30  ls
+   31  cat aaa
+   32  cd aaa
+   33  /bin/sh: name
+   34  $name
+   35  echo $name
+   36  name="soup"
+   37  echo $name
+   38  nano aaa
+   39  name="soup"
+   40  echo $name
+   41  nano aaa
+   42  echo $name
+   43  rmdir aaa
+   44  nano
+   45  nano shell_programming
+   46  nano shell_programming.sh
+   47  ls
+   48  /bin/bash chmod 744 shell_programming.ch
+   49  ls
+   50  ls -l
+   51  chmod 744 shell_programming.ch
+   52  ls
+   53  chmod shell_programming.sh
+   54  chmod 744 shell_programming.sh
+   55  ls
+   56  ./shell_programming
+   57  ./shell_programming.sh
+   58  nano shell_programming.sh
+   59  ls
+   60  chmod 744 shell_programming
+   61  ls
+   62  chmod 744 aaa
+   63  ls
+   64  rmdir aaa
+   65  rm aaa
+   66  ls
+   67  rm shell_programming.sh
+   68* 
+   69  nano shell_programming
+   70  echo $NAME
+   71  nano shell_programming
+   72  ./shell_programming.sh
+   73  ./shell_programming
+   74  shell_programming
+   75  nano shell_programming
+   76  ./shell_programming
+   77  pwd
+   78  ls -la
+   79  nano git-upload
+   80  history >history_2017_09_50.txt
