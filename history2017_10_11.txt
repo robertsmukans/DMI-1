@@ -1,0 +1,64 @@
+    1  VirtualBox --startvm XP
+    2  gitclone https://github.com/intsdronka/DMI
+    3  git clone https://github.com/intsdronka/DMI
+    4  ls
+    5  cd DMI
+    6  ls
+    7  ls -l
+    8  cat shell_programming
+    9  nano
+   10  cat saskaitisana
+   11  ls
+   12  nano saskaitīšana
+   13  nano Saskaitīšana
+   14  ls
+   15  chmod 744
+   16  chmod 744 Saskaitīšana
+   17  rmdir Saskaitīšana
+   18  cat shell_operators.sh
+   19  shell_operators.sh
+   20  ./shell_operators.sh
+   21  ls -l
+   22  chmod 744 shell_operators.sh
+   23  shell_operators.sh
+   24  ./shell_operators.sh
+   25  ls -la
+   26  nano shell_operators.sh
+   27  ./shell_operators.sh
+   28  PATH=$PATH:~/DMI
+   29  echo PATH| |
+   30  echo PATH
+   31  echo $PATH
+   32  ls -la
+   33  PATH=$PATH:~/DMI/shell_operators.sh
+   34  la -la
+   35  nano shell_operators.sh
+   36  echo $PATH
+   37  rm -rf Saskaitīšana
+   38  ls
+   39  nano shell_operators.sh
+   40  ./shell_operators.sh
+   41  nano shell_operators.sh
+   42  ./shell_operators.sh
+   43  nano shell_operators.sh
+   44  ./shell_operators.sh
+   45  nano shell_operators.sh
+   46  ./shell_operators.sh
+   47  nano shell_operators.sh
+   48  ./shell_operators.sh
+   49  nano shell_operators.sh
+   50  ./shell_operators.sh
+   51  nano shell_operators.sh
+   52  ./shell_operators.sh
+   53  nano shell_operators.sh
+   54  ./shell_operators.sh
+   55  nano shell_operators.sh
+   56  ./shell_operators.sh
+   57  nano shell_operators.sh
+   58  ./shell_operators.sh
+   59  nano shell_operators.sh
+   60  ./shell_operators.sh
+   61  nano shell_operators.sh
+   62  ./shell_operators.sh
+   63  nano git-upload 
+   64  history > history2017_10_11.txt
