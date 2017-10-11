@@ -33,7 +33,7 @@ val45=`expr 2 % 3`
 echo "2/3 atlikums : "$val45
 val46=`expr 7 % 2`
 echo "7 / 2 atlikums : "$val46
-END
+
 
 a=10
 b=20
@@ -48,3 +48,28 @@ if [ $a != $b ]
 then
 echo "a nav vienads ar b : "
 fi
+END
+
+#5.piemers
+
+if [ $# == 2 ]
+#ja (if) skriptam nodoto argumentu skaits ($#) ir vienads (==) ar 2 
+then
+#tad izpidam sakojosas darbibas lidz...
+a=$1
+b=$2
+
+val51=`expr $a + $b`
+echo "$a + $b= "$val51
+
+val51=`expr $a - $b`
+echo "$a - $b= "$val51
+
+val51=`expr $a \* $b`
+echo "$a * $b= "$val51
+
+val51=`expr $a / $b`
+echo "$a / $b= "$val51
+
+fi
+#lidz fi
