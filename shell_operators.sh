@@ -48,7 +48,6 @@ if [ $a != $b ]
 then
 echo "a nav vienads ar b : "
 fi
-END
 
 #5.piemers
 
@@ -73,3 +72,5 @@ echo "$a / $b= "$val51
 
 fi
 #lidz fi
+END
+
