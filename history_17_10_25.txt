@@ -1,0 +1,56 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/intsdronka/DMI
+    3  ls -l
+    4  cd DMI
+    5  ls -l
+    6  nano if_operators.sh
+    7  chmod 744 if_operators.sh 
+    8  ls
+    9  ./if_operators.sh 
+   10  nano if_operators.sh 
+   11  ./if_operators.sh 
+   12  nano if_operators.sh 
+   13  ./if_operators.sh 
+   14  nano if_operators.sh 
+   15  ./if_operators.sh 
+   16  nano if_operators.sh 
+   17  ./if_operators.sh 
+   18  ./if_operators.sh 12
+   19  ./if_operators.sh 
+   20  nano if_operators.sh 
+   21  ./if_operators.sh 10
+   22  nano if_operators.sh 
+   23  ./if_operators.sh 10
+   24  nano if_operators.sh 
+   25  ./if_operators.sh 10
+   26  nano if_operators.sh 
+   27  ./if_operators.sh 10
+   28  nano if_operators.sh 
+   29  y
+   30  nano if_operators.sh -10
+   31  ./if_operators.sh  Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+   32  ./if_operators.sh -10
+   33  10
+   34  ./if_operators.sh 10
+   35  ./if_operators.sh 0
+   36  nano if_operators.sh 
+   37  ./if_operators.sh 0
+   38  nano if_operators.sh 
+   39  ./if_operators.sh 0
+   40  nano if_operators.sh 
+   41  ./if_operators.sh 2 3 6
+   42  nano if_operators.sh 
+   43  ./if_operators.sh 2 3 6
+   44  nano if_operators.sh 
+   45  ./if_operators.sh 2 3 6
+   46  nano if_operators.sh 564
+   47  nano if_operators.sh
+   48  chmod 744 if_operators.sh 564
+   49  ls
+   50  nano if_operators.sh 5 4 6
+   51  ./if_operators.sh 2 8 6
+   52  nano if_operators.sh 
+   53  ./if_operators.sh 2 8 6
+   54  nano if_operators.sh 
+   55  ./if_operators.sh 2 8 6
+   56  history > history_17_10_25.txt
