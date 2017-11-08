@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/intsdronka/DMI
+    3  cd DMi
+    4  cd DMI
+    5  mkdir Python
+    6  mkdir python
+    7  cd python
+    8  nano variables.py
+    9  ls -l
+   10  chmod 744 variables.py
+   11  ./python.py
+   12  ls
+   13  ./variables.py 
+   14  nano variables.py
+   15  ./variables.py 
+   16  nano variables.py
+   17  ./variables.py 
+   18  nano variables.py
+   19  ./variables.py 
+   20  nano variables.py
+   21  ./variables.py 
+   22  nano variables.py
+   23  ./variables.py 
+   24  nano variables.py
+   25  ./variables.py 
+   26  nano variables.py
+   27  ./variables.py 
+   28  nano variables.py
+   29  ./variables.py 
+   30  nano variables.py
+   31  ./variables.py 
+   32  nano dialogs.py
+   33  chmod dialogs.py 
+   34  chmod 744 dialogs.py 
+   35  ./dialogs.py 
+   36  nano dialogs.py
+   37  ./dialogs.py 
+   38  nano dialogs.py
+   39  ./dialogs.py 
+   40  nano dialogs.py
+   41  ./dialogs.py 
+   42  nano dialogs.py
+   43  ./dialogs.py 
+   44  nano dialogs.py
+   45  ./dialogs.py 
+   46  nano dialogs.py
+   47  ./dialogs.py 
+   48  nano dialogs.py
+   49  nano if.py
+   50  python if.py
+   51  nano if.py
+   52  idle &
+   53  history > history_2017_11_8
