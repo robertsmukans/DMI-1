@@ -1,0 +1,24 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/intsdronka/DMI
+    3  cd DMI
+    4  cd python
+    5  nano sin_caur_summu_vers1
+    6  nano sin_caur_summu_vers1.py
+    7  python sin_caur_summu_vers1.py 
+    8  nano sin_caur_summu_vers1.py
+    9  python sin_caur_summu_vers1.py 
+   10  nano sin_caur_summu_vers1.py
+   11  python sin_caur_summu_vers1.py 
+   12  nano sin_caur_summu_vers1.py
+   13  python sin_caur_summu_vers1.py 
+   14  nano sin_caur_summu_vers1.py
+   15  python sin_caur_summu_vers1.py 
+   16  nano sin_caur_summu_vers1.py
+   17  2
+   18  python sin_caur_summu_vers1.py 
+   19  cp sin_caur_summu_vers1.py sin_caur_summu_vers2.py 
+   20  ls
+   21  idle &
+   22  nano sin_caur_summu_vers1.py
+   23  nano sin_caur_summu_vers2.py
+   24  history > history_2017_11_15
