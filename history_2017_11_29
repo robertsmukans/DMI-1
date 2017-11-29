@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/intsdronka/DMI
+    3  cd DMI
+    4  cd python
+    5  idle &
+    6  print "teksts"
+    7  echo teksts
+    8  ls
+    9  cat python_diary_20171129.py 
+   10  idle
+   11  cd ..
+   12  history > history_2017_11_29
