@@ -1,0 +1,12 @@
+a = input("Cienijamais lietotaj, ludzu, ievadiet vesalu skaitli: ")
+print "Jus esat ievadijis mainigo ar datu tipu: %s"%type(a)
+
+print " "
+print "     Atlikums dalot ievadito un vel 10 nakomos skaitlus ar skaitliem:   "
+print "          1     2     3     4     5     6     7     8     9     10"
+print " "
+k = 0
+while k <= 10:
+    print "%5.0f %5.0f %5.0f %5.0f %5.0f %5.0f %5.0f %5.0f %5.0f %5.0f %5.0f"%(a,a%1,a%2,a%3,a%4,a%5,a%6,a%7,a%8,a%9,a%10)
+    a = a + 1
+    k=k+1
