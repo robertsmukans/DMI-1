@@ -1,0 +1,7 @@
+    1  VirtualBox --startvm XP
+    2  git clone
+    3  git clone https://github.com/intsdronka/DMI
+    4  cd DMI
+    5  cd python
+    6  idle
+    7  history > history2017_12_06
