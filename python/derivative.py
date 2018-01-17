@@ -17,13 +17,13 @@ def mans_sinuss(x): #6a
 a = 0 #3
 b = 3 * np.pi #4
 #funkcijas zimesana
-x = np.arange(a,b,0.5) #5
+x = np.arange(a,b,0.1) #5
 y = mans_sinuss(x) #6a
 plt.plot(x,y) #7
 plt.grid() #8
 #plt.show() #9
 
-#funkcijas atvasinājuma aprēķinas
+#funkcijas pirmas kartas atvasinājuma aprēķins
 
 n = len(x)
 y_prim = []

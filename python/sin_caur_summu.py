@@ -8,7 +8,7 @@ def mans_sinuss(x):
     print "a0 = %6.2f S0 = %6.2f"%(a,S)
 
 
-    while k < 1000:
+    while k < 20:
         k = k + 1
         a = a*(-1)*x**2/((2*k)*(2*k+1))
         S = S + a

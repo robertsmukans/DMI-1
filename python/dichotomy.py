@@ -38,7 +38,7 @@ while b-a > delta_x:
     k = k + 1
     x = ( a + b )/2
     funx = mans_sinuss(x)
-    print "f(%3d.   a=%.4f f(%.4f)=%7.4f b=%.4f"%(k,a,x,funx,b)
+    print "%3d.   a=%.4f f(%.4f)=%7.4f b=%.4f"%(k,a,x,funx,b)
     if funa * funx > 0:
         a = x
     else:
